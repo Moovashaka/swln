@@ -1,7 +1,7 @@
 import './css/carousel.css'
-import logo from '../logo.svg';
-import logo1 from '../logo1.svg';
-import logo2 from '../logo2.svg';
+import logo from '../images/logo.svg';
+import logo1 from '../images/logo1.svg';
+import logo2 from '../images/logo2.svg';
 
 function Carousel() {
   return (
