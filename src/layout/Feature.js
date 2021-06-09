@@ -14,21 +14,21 @@ function Feature() {
   {/* <!-- Three columns of text below the carousel --> */}
   <div className="row">
     <div className="col-lg-4">
-      <img className="bd-placeholder-img rounded-circle" width="140" height="140" src={shedoffice} aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false" />
+      <img alt="Home offices" className="bd-placeholder-img rounded-circle" width="140" height="140" src={shedoffice} aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false" />
 
       <h2>Garden Office</h2>
       <p>SWL can design & build your perfect Home Office. Get creative in the tranquil setting of your own home.</p>
 
      </div> {/*<!-- /.col-lg-4 --> */}
      <div className="col-lg-4">
-      <img className="bd-placeholder-img rounded-circle" width="140" height="140" src={timbdeck} aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false" />
+      <img alt="Garden Buildings Home offices" className="bd-placeholder-img rounded-circle" width="140" height="140" src={timbdeck} aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false" />
 
       <h2>Summer Houses</h2>
       <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
-      
+
     </div> {/*<!-- /.col-lg-4 -->*/}
     <div className="col-lg-4">
-      <img className="bd-placeholder-img rounded-circle" width="140" height="140" src={timbdeck} aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false" />
+      <img alt="Garden Buildings Home offices" className="bd-placeholder-img rounded-circle" width="140" height="140" src={timbdeck} aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false" />
 
       <h2>Decking</h2>
       <p>We use sustainably sourced materials and proven techniques to give you decking that you're gonna love!</p>
@@ -51,7 +51,7 @@ function Feature() {
       to make your outdoor space as special as you wish it to be.</p>
     </div>
     <div className="col-md-5">
-      <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" src={logo} height="500" focusable="false" />
+      <img alt="Garden Buildings Home offices" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" src={logo} height="500" focusable="false" />
 
     </div>
   </div>
@@ -65,7 +65,7 @@ function Feature() {
       <p className="lead">We only use top quality sustainably sourced materials from the best local suppliers.</p>
     </div>
     <div className="col-md-5 order-md-1">
-      <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" src={decking} height="500" focusable="false" />
+      <img alt="Garden Buildings Home offices" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" src={decking} height="500" focusable="false" />
 
     </div>
   </div>
@@ -78,7 +78,7 @@ function Feature() {
       <p className="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
     </div>
     <div className="col-md-5">
-      <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" src={carport} height="500" focusable="false" />
+      <img alt="Garden Buildings Home offices" className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" src={carport} height="500" focusable="false" />
 
     </div>
   </div>

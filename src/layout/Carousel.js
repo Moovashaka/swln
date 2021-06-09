@@ -1,11 +1,4 @@
 import './css/carousel.css'
-import logo from '../images/logo.svg';
-import logo1 from '../images/logo1.svg';
-import logo2 from '../images/logo2.svg';
-import logo3 from '../images/swllogo5.svg';
-import logoblk from '../images/swllogoblk.svg';
-import homeoffice from '../images/homeoffice795.svg';
-import homeofficelogo from '../images/homeofficelogo.svg';
 import logoback from '../images/logoback.svg';
 import gologo from '../images/gardenofficelogo.svg';
 
@@ -20,7 +13,7 @@ function Carousel() {
       </div>
       <div className="carousel-inner">
         <div className="carousel-item active">
-          <img src={logoback} width="60%" height="60%"/>
+          <img alt="Garden Buildings Home offices" src={logoback} width="60%" height="60%"/>
 
           <div className="container">
             <div className="carousel-caption text-start">
@@ -30,7 +23,7 @@ function Carousel() {
           </div>
         </div>
         <div className="carousel-item">
-          <img src={gologo} width="60%" height="60%"/>
+          <img alt="Garden Buildings Home offices" src={gologo} width="60%" height="60%"/>
           <div className="container">
             <div className="carousel-caption">
               <h1>Create Beautiful Spaces.</h1>
@@ -39,7 +32,7 @@ function Carousel() {
           </div>
         </div>
         <div className="carousel-item">
-          <img src={logoback} width="60%" height="60%"/>
+          <img alt="Garden Buildings Home offices" src={logoback} width="60%" height="60%"/>
 
           <div className="container">
             <div className="carousel-caption text-end">
