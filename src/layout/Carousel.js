@@ -6,6 +6,8 @@ import logo3 from '../images/swllogo5.svg';
 import logoblk from '../images/swllogoblk.svg';
 import homeoffice from '../images/homeoffice795.svg';
 import homeofficelogo from '../images/homeofficelogo.svg';
+import logoback from '../images/logoback.svg';
+import gologo from '../images/gardenofficelogo.svg';
 
 function Carousel() {
   return (
@@ -18,35 +20,32 @@ function Carousel() {
       </div>
       <div className="carousel-inner">
         <div className="carousel-item active">
-          <img src={homeofficelogo} width="60%" height="60%"/>
+          <img src={logoback} width="60%" height="60%"/>
 
           <div className="container">
             <div className="carousel-caption text-start">
               <h1>Beautiful Garden Structures.</h1>
               <p>Bring your garden to life with style.</p>
-              <p><a className="btn btn-lg btn-primary" href="#">Sign up today</a></p>
             </div>
           </div>
         </div>
         <div className="carousel-item">
-          <img src={homeoffice} width="60%" height="60%"/>
+          <img src={gologo} width="60%" height="60%"/>
           <div className="container">
             <div className="carousel-caption">
-              <h1>Another example headline.</h1>
-              <p>Some representative placeholder content for the second slide of the carousel.</p>
-              <p><a className="btn btn-lg btn-primary" href="#">Learn more</a></p>
+              <h1>Create Beautiful Spaces.</h1>
+              <p>SWL design and build your perfect space </p>
             </div>
           </div>
         </div>
         <div className="carousel-item">
-          <img src={homeoffice} width="60%" height="80%"/>
+          <img src={logoback} width="60%" height="60%"/>
 
           <div className="container">
             <div className="carousel-caption text-end">
               <h1>SWL Beautiful Creations</h1>
-              <p>Some representative placeholder content for the third slide of this carousel.</p>
-              <p><a className="btn btn-lg btn-primary" href="#">Browse gallery</a></p>
-            </div>
+              <p>We use Certified Sustainable Materials for a job we can all be proud of</p>
+              </div>
           </div>
         </div>
       </div>
