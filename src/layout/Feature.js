@@ -4,9 +4,6 @@ import decking from '../images/decking.svg';
 import carport from '../images/carport.svg';
 import logo from '../images/logo.png';
 
- {/*-- Marketing messaging and featurettes
- ================================================== -->
- <!-- Wrap the rest of the page in another container to center all the content.*/}
 function Feature() {
   return (
 <div className="container marketing">
