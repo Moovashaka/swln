@@ -1,6 +1,7 @@
 import './css/carousel.css'
 import logoback from '../images/logoback.svg';
 import gologo from '../images/gardenofficelogo.svg';
+import drawlogo from '../images/drawgardenoffice.png';
 
 function Carousel() {
   return (
@@ -32,7 +33,7 @@ function Carousel() {
           </div>
         </div>
         <div className="carousel-item">
-          <img alt="Garden Buildings Home offices" src={logoback} width="60%" height="60%"/>
+          <img alt="Garden Buildings Home offices" src={drawlogo} width="60%" height="60%"/>
 
           <div className="container">
             <div className="carousel-caption text-end">
