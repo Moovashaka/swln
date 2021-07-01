@@ -1,5 +1,6 @@
 import timbdeck from '../images/timberdecking1.svg';
 import shedoffice from '../images/shedoffice.svg';
+import summerhouse from '../images/summerhouse3.jpeg';
 import decking from '../images/decking.svg';
 import carport from '../images/carport.svg';
 import logo from '../images/logo.png';
@@ -18,10 +19,10 @@ function Feature() {
 
      </div> {/*<!-- /.col-lg-4 --> */}
      <div className="col-lg-4">
-      <img alt="Garden Buildings Home offices" className="bd-placeholder-img rounded-circle" width="140" height="140" src={timbdeck} aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false" />
+      <img alt="Garden Buildings Home offices" className="bd-placeholder-img rounded-circle" width="140" height="140" src={summerhouse} aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false" />
 
       <h2>Summer Houses</h2>
-      <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
+      <p>Our design team love creating the perfect outdoor space for you and your family to enjoy long into the future.</p>
 
     </div> {/*<!-- /.col-lg-4 -->*/}
     <div className="col-lg-4">
