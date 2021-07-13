@@ -3,6 +3,7 @@ import shedoffice from '../images/shedoffice.png';
 import summerhouse from '../images/summerhouse3.jpeg';
 import decking from '../images/decking.svg';
 import carport from '../images/carport.svg';
+import moredecking from '../images/moredecking.png';
 import logo from '../images/logo.png';
 
 function Feature() {
@@ -26,7 +27,7 @@ function Feature() {
 
     </div> {/*<!-- /.col-lg-4 -->*/}
     <div className="col-lg-4">
-      <img alt="Garden Buildings Home offices" className="bd-placeholder-img rounded-circle" width="140" height="140" src={timbdeck} aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false" />
+      <img alt="Garden Buildings Home offices" className="bd-placeholder-img rounded-circle" width="140" height="140" src={moredecking} aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false" />
 
       <h2>Decking</h2>
       <p>We use sustainably sourced materials and proven techniques to give you decking that you're gonna love!</p>
