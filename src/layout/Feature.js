@@ -1,4 +1,3 @@
-import timbdeck from '../images/timberdecking1.svg';
 import shedoffice from '../images/shedoffice.png';
 import summerhouse from '../images/summerhouse3.jpeg';
 import decking from '../images/decking.svg';
